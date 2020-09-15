@@ -18,7 +18,7 @@
     "branch": "arrow-10.0"
   },
   {
-    "remote": "lineage",
+    "remote": "github",
     "repository": "LineageOS/android_system_qcom",
     "target_path": "system/qcom",
     "branch": "lineage-17.1"
